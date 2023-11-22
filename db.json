@@ -1,33 +1,177 @@
 {
-  "projects": [
+  "Recipe": [
     {
       "id": 1,
-      "title": "Module 2 Project",
-      "description": "Module 2 project - Integrate a React app with backend.",
-      "userId": 1
+      "name": "Spaghetti Bolognese",
+      "cuisine": "italian",
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2019/09/Spaghetti-Bolognese-square-FS-0204.jpg",
+      "ingredients": [
+        "400g ground beef",
+        "1 onion, diced",
+        "2 cloves garlic, minced",
+        "1 can (400g) crushed tomatoes",
+        "2 tablespoons tomato paste",
+        "1 teaspoon dried oregano",
+        "1 teaspoon dried basil",
+        "Salt and pepper to taste",
+        "300g spaghetti",
+        "Grated Parmesan cheese for serving"
+      ],
+      "instructions": [
+        "In a large pan, brown the ground beef over medium heat.",
+        "Add the diced onion and minced garlic, cook until onion is softened.",
+        "Stir in crushed tomatoes, tomato paste, oregano, basil, salt, and pepper.",
+        "Simmer for 20-30 minutes, stirring occasionally.",
+        "Meanwhile, cook spaghetti according to package instructions.",
+        "Serve the Bolognese sauce over cooked spaghetti and top with Parmesan cheese."
+      ]
     },
     {
       "id": 2,
-      "title": "Module 3 Project",
-      "description": "Create a full-stack application using MERN stack.",
-      "userId": 1
-    }
-  ],
-  "tasks": [
-    {
-      "id": 1,
-      "projectId": 1,
-      "description": "Use Vite to create a basic React app"
-    },
-    {
-      "id": 2,
-      "projectId": 1,
-      "description": "Install React Router and setup routes"
+      "name": "Chicken Caesar Salad",
+      "cuisine": "america",
+      "image": "https://www.jessicagavin.com/wp-content/uploads/2022/06/chicken-caesar-salad-28-1200.jpg",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts",
+        "Salt and pepper to taste",
+        "1 tablespoon olive oil",
+        "1 head romaine lettuce, chopped",
+        "1 cup croutons",
+        "1/2 cup grated Parmesan cheese",
+        "1/2 cup Caesar dressing"
+      ],
+      "instructions": [
+        "Season chicken breasts with salt and pepper.",
+        "Heat olive oil in a pan over medium-high heat.",
+        "Cook chicken breasts until no longer pink in the center, about 6-8 minutes per side.",
+        "Slice the cooked chicken into thin strips.",
+        "In a large bowl, combine chopped romaine lettuce, croutons, Parmesan cheese, and sliced chicken.",
+        "Drizzle Caesar dressing over the salad and toss to combine."
+      ]
     },
     {
       "id": 3,
-      "projectId": 2,
-      "description": "Create a form with 5 input fields"
+      "name": "Chicken Stir-Fry",
+      "cuisine": "Asian",
+      "image": "https://www.kitchensanctuary.com/wp-content/uploads/2016/03/Quick-Chicken-Stir-Fry-square-FS.jpg",
+      "ingredients": [
+        "2 boneless, skinless chicken breasts, sliced",
+        "2 cups broccoli florets",
+        "1 bell pepper, sliced",
+        "1 carrot, julienned",
+        "3 tablespoons soy sauce",
+        "2 tablespoons oyster sauce",
+        "1 tablespoon sesame oil",
+        "1 tablespoon cornstarch",
+        "2 cloves garlic, minced",
+        "1 teaspoon grated ginger",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a bowl, mix soy sauce, oyster sauce, sesame oil, and cornstarch.",
+        "Stir-fry chicken in a wok or pan until cooked through.",
+        "Add garlic and ginger, then add vegetables and stir-fry until tender-crisp.",
+        "Pour the sauce over the chicken and vegetables, stir until well coated.",
+        "Serve over cooked rice."
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Classic Margherita Pizza",
+      "cuisine": "Italian",
+      "image": "https://uk.ooni.com/cdn/shop/articles/20220211142645-margherita-9920.jpg?crop=center&height=800&v=1660843558&width=800",
+      "ingredients": [
+        "Pizza dough",
+        "1/2 cup pizza sauce",
+        "1 1/2 cups fresh mozzarella, sliced",
+        "Fresh basil leaves",
+        "Olive oil for drizzling"
+      ],
+      "instructions": [
+        "Preheat the oven to 475°F (245°C).",
+        "Roll out the pizza dough and spread pizza sauce over it.",
+        "Top with sliced mozzarella and fresh basil leaves.",
+        "Bake in the preheated oven for 10-12 minutes or until the crust is golden and the cheese is bubbly.",
+        "Drizzle with olive oil before serving."
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Vegetable Curry",
+      "cuisine": "Indian",
+      "image": "https://img.taste.com.au/kUVCKnrN/taste/2016/11/indian-style-vegetable-curry-59371-1.jpeg",
+      "ingredients": [
+        "2 cups mixed vegetables (potatoes, carrots, peas)",
+        "1 onion, finely chopped",
+        "2 tomatoes, chopped",
+        "3 tablespoons curry powder",
+        "1 teaspoon cumin",
+        "1 teaspoon turmeric",
+        "1 teaspoon garam masala",
+        "1 can (400ml) coconut milk",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a pot, sauté onions until golden brown.",
+        "Add tomatoes and cook until soft.",
+        "Add curry powder, cumin, turmeric, and garam masala. Stir well.",
+        "Add mixed vegetables and coconut milk. Simmer until vegetables are tender.",
+        "Serve over cooked rice."
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Sweet and Sour Chicken",
+      "cuisine": "Chinese",
+      "image": "https://www.bowlofdelicious.com/wp-content/uploads/2020/06/sweet-and-sour-chicken-square.jpg",
+      "ingredients": [
+        "500g boneless, skinless chicken thighs, cut into bite-sized pieces",
+        "1 cup pineapple chunks",
+        "1 bell pepper, diced",
+        "1 onion, sliced",
+        "2 tablespoons soy sauce",
+        "3 tablespoons rice vinegar",
+        "3 tablespoons ketchup",
+        "2 tablespoons brown sugar",
+        "1 tablespoon cornstarch",
+        "1 teaspoon grated ginger",
+        "Cooked rice for serving"
+      ],
+      "instructions": [
+        "In a bowl, mix soy sauce, rice vinegar, ketchup, brown sugar, and cornstarch.",
+        "Heat oil in a pan, add chicken and cook until browned.",
+        "Add ginger, bell pepper, and onion. Cook until vegetables are tender.",
+        "Pour the sauce over the chicken and vegetables, add pineapple chunks, and stir until the sauce thickens.",
+        "Serve over cooked rice."
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Egg Drop Soup",
+      "cuisine": "Chinese",
+      "image": "https://drivemehungry.com/wp-content/uploads/2020/07/egg-drop-soup-11.jpg",
+      "ingredients": [
+        "4 cups chicken broth",
+        "2 eggs, beaten",
+        "2 green onions, thinly sliced",
+        "1 tablespoon soy sauce",
+        "1 teaspoon sesame oil",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "In a pot, bring chicken broth to a simmer.",
+        "Slowly pour beaten eggs into the simmering broth while stirring gently.",
+        "Add soy sauce, sesame oil, salt, and pepper. Stir well.",
+        "Garnish with green onions and serve hot."
+      ]
+    },
+    {
+      "name": "yass",
+      "cuisine": "maro",
+      "image": "https://stackoverflow.com/questions/62653114/how-can-i-deal-with-this-git-warning-pulling-without-specifying-how-to-reconci",
+      "ingredients": "jah xbue",
+      "instructions": "& eu (",
+      "id": 9
     }
   ]
 }
