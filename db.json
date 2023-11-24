@@ -166,12 +166,210 @@
       ]
     },
     {
-      "name": "yass",
-      "cuisine": "maro",
-      "image": "https://stackoverflow.com/questions/62653114/how-can-i-deal-with-this-git-warning-pulling-without-specifying-how-to-reconci",
-      "ingredients": "jah xbue",
-      "instructions": "& eu (",
-      "id": 9
+      "name": "humberger",
+      "cuisine": "italy",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAJQA6wMBIgACEQEDEQH/xAAbAAABBQEBAAAAAAAAAAAAAAADAQIEBQYAB//EADsQAAIBAwMBBgMGBQMEAwAAAAECAwAEEQUSITEGEyJBUWEycYEUI0KRodEHFVKxwSRi8DND4fE0gsL/xAAZAQADAQEBAAAAAAAAAAAAAAABAgMEAAX/xAAqEQACAgEEAgECBgMAAAAAAAAAAQIRAwQSITETQVEiMhQjQmFxoQVSkf/aAAwDAQACEQMRAD8A8jt+lEIplv0op5FRZqXQzFKq0oGOtd8qFnJCkChSDijYNMkHFcgsZEPDTyDTol8FP7ssRTCIRFOOldt5qTtG3pSbOelBDNAVWkmXwipGyhXPAFEUWFfu6XaKfCMRDNLtrgjAlDkAU81JC0C6U8Y60UKxU8Qp0kfg6US1j+7560s4wtJfI23gjhMLSMvFHRcrSMlGzmiucYbFPC0WWPxZpVSmsShirTZF4qQExQ5elKNQ+LhBSPXRsNopTSFQajmnnikHWkkOKJxwpaZG2RmnZFCjiPb9KMKFApA5FEOab2IuhW5HApUUk0qrzzVlo+kXerXa21lEWLHxOfhT3JoPgZKyAEORnAz096s7fszrV8sZttNnYSDKsV2gj5nivVuz/ZfT9Islj7pJbpgO9nZd2T7A9BnpzV2UAkKrJv4wPAfCfnnge1ZZ6inwi6w32eVad/DjV5l/1NzaWw/py0jA+mAMZ+tWb/w2lQBTqaleMt9nxx6gbvevRI3OxnjZShXKsWPiP5H9M09kaQqUD7guAoPxH",
+      "ingredients": "meat",
+      "instructions": "salt",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "name":"Vegan Shakshuka" ,
+      "cuisine": "Italy",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/vegan-shakshuka-676589.jpg",
+      "ingredients":"28 ozs pointed cabbage 7 ozs kale 1 red onion 2 garlic cloves 9 oz brown rice salt 3 tbsps olive oil 14 ozs chunky tomatoes (canned) 2 tsps ground paprika 3 tsps harissa peppers 3 ozs pumpkin pure e1 tsp cornstarch 8 ozs silken tof 2 marjoram 1 tsp sumac 1 tsp sesame seeds (black and white)",
+      "instructions": "1. Clean and wash the pointed and green cabbage, pluck the green from the ribs of the kale. Cut the pointed cabbage and kale into strips. Peel and chop the onion and garlic. 2. Bring rice to a boil with twice the amount of salted water, cover and cook over low heat for 25-30 minutes. Remove from heat, loosen and let swell for 5 minutes. 3. Meanwhile, in a deep frying pan, heat 2 tablespoons of oil. Add onion and garlic and sauté over medium heat for 3 minutes until translucent. Add pointed cabbage and kale and sauté for 3-5 minutes until golden brown. Deglaze with a little water, add tomatoes and let reduce for about 10 minutes; then season with paprika, harissa, salt and pepper. 4. Meanwhile, mix pumpkin puree with remaining oil, 1/2 tsp cornstarch, 1-2 tbsp water and 1 pinch salt. Mix tofu with remaining starch and salt. Form 4 wells in pan vegetables, place tofu cream in them and center pumpkin cream on top. Cover pan and let shakshuka set over low heat for about 10 minutes. Wash marjoram, shake dry, pluck into small pieces. Sprinkle vegan shakshuka with marjoram, sumac and sesame seeds and serve with rice."
+      
+    },
+    {
+      "id": 10,
+      "name":"Spicy Vegan Shakshuka" ,
+      "cuisine": "Arabian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/spicy-vegan-shakshuka-669899.jpg",
+      "ingredients": "1 medium yellow onion 2 cloves garlic cloves 1 tbsp olive oil 15 fluid ozs chopped tomatoes (1 can) 15 fluid ozs chickpeas (1 can, drained) 1 pinch salt 1 pinch peppers ½ tsp smoked paprika powder ½ tsp cumin ¼ bunch flat leaf parsley (chopped)",
+      "instructions": "1.  Peel and chop the onion in medium dice. Peel and dice the garlic cloves.  2.  Heat a skillet over medium heat, add olive oil and when warm add onion garlic. Saute for 2 minutes, until the onion turns golden. Add the tomatoes, salt, pepper, smoked paprika, chili powder, and cumin and bring to a simmer. Taste and adjust seasoning if required.  3. Drain the chickpeas and add to mixture. Cook about 10 minutes on medium heat. 4. Take off the heat and serve with fresh chopped parsley and bread."
+      
+    },
+    {
+      "id": 11,
+      "name":"Beef and Veggie Pasta with goat cheese" ,
+      "cuisine": "Italy",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/beef-and-veggie-pasta-666961.jpg",
+      "ingredients": "½ lb whole grain pasta 1  onion  1  garlic clove  1 lb  button mushroom  2  bell pepper  2 tsp  olive oil  ½ lb  ground beef  salt peppers cayenne pepper  ⅔ cup  goat cheese  1 bunch parsley",
+      "instructions": "1. Cook the pasta according to the package instructions in plenty of salted water until al dente. Then drain and place to the side. 2. Meanwhile peel and chop the onion and garlic. Clean and chop the mushrooms. Clean, wash and cut the peppers into strips  3. Heat 1 teaspoon of oil in a large pan and brown the meat on medium heat for 8 minutes, season with salt, pepper, cayenne pepper and remove from pan. Heat 1 tsp. oil in the same pan, and saute the onion and garlic over medium heat for 2 minutes.  4. Add the mushrooms and peppers to the pan and cook for 2 minutes or until vegetables are soft. Add meat, pasta and crumbled cheese, mix everything and cook for another 2 minutes to infuse flavor. Season the pan with salt and pepper as needed, Chop parsley and garnish the dish. "
+      
+    },
+    {
+      "id": 12,
+      "name":"Ginger Beef and Rice Noodles" ,
+      "cuisine": "Asian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/ginger-beef-and-rice-noodles-675525.jpg",
+      "ingredients": "3  garlic cloves 3 tbsps  canola oil 6 ozs flat beef rump steaks 20 oz  thin rice noodles salt 2  carrots 7 ozs  snow peas  3 tbsps  honey  1 ¾ ozs  vegetable broth 1 tbsp  dark soy sauce  3 tbsps sweet soy sauce  2 generous pinches  rice starch 1 tbsp  sesame seeds 1 tsp  sesame oil  1 handful  pea shoots  1 handful  cilantro leave  1 tsp black sesame seeds",
+      "instructions": "1.  Peel ginger and garlic and mash with canola oil to a paste. Pat steaks dry, rub with paste and let sit for 2 hours.  2.  Meanwhile, cook rice noodles according to package directions in plenty of boiling salted water until al dente. Then drain and leave to drain. Clean and peel carrots and cut into fine strips with a vegetable slicer.  3.  Clean sugar snap peas, wash and cut diagonally into strips. Cook both in boiling water for 3 minutes, rinse with cold water and drain.  4. Bring honey, broth and both soy sauces with starch to a boil over low heat while stirring, then cool. Mix with sesame seeds and sesame oil. Wash the sprouts and coriander, shake dry and pluck off the leaves.  5.  Mix noodles with carrots, snow peas and pea shoots. Fry meat in a hot grill pan for 2-3 minutes on each side, depending on desired doneness; let rest a bit and then cut into strips.  6.  Arrange noodles on plates, drizzle with sesame dressing and arrange meat on top. Garnish with cilantro and black sesame seeds."
+      
+    },
+    {
+      "id": 13,
+      "name":"Salmon on Asian Noodles" ,
+      "cuisine": "Asian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/salmon-on-asian-noodles-676049.jpg",
+      "ingredients": "30 ozs chinese egg noodle (mie noodles) 1 stalk  leeks  1 chili pepper 1 handful  cilantro leaves 4  salmon fillets (about 4 ounces) 4 tbsps  sesame oil  9 ozs frozen peas (defrosted)  salt peppers  1 organic lime",
+      "instructions": "1.  Soak noodles in a bowl of hot water for 8-10 minutes until soft but still firm to the bite.  2.  Along the way, cut out 4 large squares (approx. 8 x 8 inches) of baking paper and have ready. Clean the leeks, wash, cut them into thin rings, and shake dry. 3.  Halve chili pepper lengthwise, remove seeds, wash and chop. Wash cilantro leaves and shake dry. Rinse salmon fillets and pat dry.  4. Drain noodles, drain thoroughly and mix with 2 tablespoons sesame oil. Divide noodles among the 4 pieces of baking paper. Top with leeks and peas and place 1 piece of fish on each.  5.  Sprinkle with chili, season with salt and pepper. Close the paper and place the packets on a baking tray. Bake the packets in a preheated oven at 200 °C / 400 °F for 15-20 minutes.  6.  Remove packets from oven, place on plates, open the paper, and drizzle each with 1 tsp sesame oil. Wash lime, cut into wedges, and serve. Sprinkle with cilantro leaves."
+      
+    },
+    {
+      "id": 14,
+      "name":"Ramen Noodle Soup" ,
+      "cuisine": "American",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/ramen-noodle-soup-676043.jpg",
+      "ingredients": "16 ozs  skinless, boneless chicken breast fillets  4 tbsps  sesame oil  1 oz rice wine 3 tbsps soy sauce 1 tbsp mirin (japanese rice wine)  16 ozs ramen noodle  salt  2  eggs (m)  1 chili pepper 1  scallion  8 ozs small mushrooms (e.g. button mushrooms, oyster mushrooms) 2  garlic cloves  ¾ oz ginger  26 ozs chicken broth  peppers 1 tbsp roasted sesame seeds",
+      "instructions": "1. Rinse chicken and pat dry. Heat 2 tablespoons of oil in a saucepan. Sauté chicken breast fillets in it all around over medium heat for 3 minutes. Deglaze with rice wine, stir in 7 ounces of water, 2 tablespoons soy sauce, and mirin, and cook chicken over low heat for 8 minutes until done.  2.  Meanwhile, pour boiling salted water over noodles and let stand for 5 minutes. Then drain in a colander and let drain.  3.  Boil eggs in boiling water for about 6 minutes until soft, then rinse and peel. Halve chili pepper lengthwise, remove seeds, wash and chop. Clean, wash and finely dice the spring onion. Clean mushrooms and halve or slice depending on size. Peel garlic and ginger and cut into fine slices. 4. In a frying pan, heat the remaining oil. Sauté mushrooms in it for 3 minutes over medium heat. Add garlic and ginger and fry briefly.  5. Remove chicken breast fillets from the pot, fill the liquid with the broth to about 34 ounces and bring to a boil. Mix in mushrooms, chili, and spring onion and let stand in the soup for 5 minutes.  6.  Season soup with remaining soy sauce, salt and pepper. Slice chicken, place in soup bowls with noodles and pour hot soup over. Cut eggs in half, arrange 1 egg half on top of each soup and sprinkle everything with sesame seeds."
+      
+    },
+    {
+      "id": 15,
+      "name":"Easy Ramen Noodle Soup with Chicken" ,
+      "cuisine": "Asian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/easy-ramen-noodle-soup-with-chicken-675797.jpg",
+      "ingredients": "28 ozs chicken legs (4 chicken legs)  salt peppers  2 tbsps  peanut oil  2  scallions 2 garlic cloves ¾ oz  ginger (1 piece)  2 tbsps  rice vinegar  1 ½ ozs  red miso paste (3 tablespoons; japanese soybean paste)  4 tbsps  soy sauce  1 oz  sharp chili sauce (2 tbsp.) 12 ozs  broccoli 10 ozs  baby bok choy 6 cups  chicken broth  20 ozs  ramen noodle (japanese wheat noodles) ½ bunch  basil  1 tbsp black sesame",
+      "instructions": "1. Rinse chicken legs, pat dry, season with salt and pepper. Heat peanut oil in a frying pan and fry chicken legs in it, turning, for 15-20 minutes over medium heat until golden brown. Then remove and allow to cool briefly.  2.  Meanwhile, clean, wash and finely chop the spring onions. Peel garlic and ginger and chop both finely. Stir-fry everything in the remaining fat for 4 minutes over medium heat. Mix rice vinegar with 3 ounces of water, miso paste, soy sauce, and chili sauce.  3. Remove chicken from bone, cut into strips and return to pan. Pour in miso sauce and simmer over low heat for 5-7 minutes until thickened. Remove chicken from pan and keep warm.  4. Meanwhile, clean broccoli, wash and divide into florets. Cook in salted water for 5 minutes, drain and rinse with cold water. Clean, wash, and quarter the bok choy. Deglaze the chicken with broth. Add bok choy and noodles and simmer over medium heat for 3-4 minutes until noodles are cooked (follow package instructions).  5.  Wash basil, shake dry and pluck leaves. Place broccoli florets and basil leaves in bowls. Season soup with salt and pepper, add to bowls with noodles and bok choy, and arrange chicken on top. Sprinkle everything with black sesame seeds."
+      
+    },
+    {
+      "id": 16,
+      "name":"Baked Sweet Potatoes with Feta Cheese" ,
+      "cuisine": "French",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/baked-sweet-potatoes-with-feta-cheese-675701.jpg",
+      "ingredients": "36 ozs sweet potato  4 garlic cloves  3  chili peppers  7 ozs  sheep cheese  2 tbsps  olive oil  1 tbsp  honey  2 tbsps  pumpkin seed 2 tbsps  sunflower seed 1 tbsp  sesame seeds coarse sea salt",
+      "instructions": "1.  Peel sweet potatoes, wash and cut into finger-thick sticks. Peel garlic cloves and cut into slices.  2.  Halve chili peppers lengthwise, remove seeds, wash and chop or cut into rings. Cut feta cheese into cubes and mix with sweet potatoes, garlic, chili, olive oil, and honey. Spread on a baking tray lined with baking paper and cook in a preheated oven at 180 °C / 350 ˚F for about 20-25 minutes. 3.  Meanwhile, toast pumpkin and sunflower seeds and sesame seeds in a pan without fat over medium heat. Remove sweet potatoes from oven, arrange on plates and sprinkle with sea salt, seeds and sesame seeds."
+      
+    },
+    {
+      "id": 17,
+      "name":"Twice Baked Sweet Potatoes" ,
+      "cuisine": "Mexico",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/twice-baked-sweet-potatoes-542244.jpg",
+      "ingredients": "4 sweet potato  3 tbsps butter  2 tbsps  lime juice salt  freshly ground peppers  2  tomatoes 1 ½ ozs  coarsely grated cheese (such as gruyère)  1 tbsp parsley",
+      "instructions": "1. Rinse the sweet potatoes, then add to a pot with cold water. Bring to a boil, cover, and cook for 20 minutes. Drain the sweet potatoes and cool slightly.   2.  Slice the potatoes lengthwise, then carefully scrape out the pulp with a spoon. Be sure to leave a 0.5 cm (approximately .25 inch) thick border inside the potatoes. Remove the pulp from the portion you cut off. Mix the sweet potato pulp with the butter and lime juice, then season to taste with salt and pepper.  3. Blanch the tomatoes briefly in boiling water. Remove from the water, peel, and cut into quarters. Remove the core and finely dice.   4.  Return the mashed sweet potatoes to the potato shells. Sprinkle with the cheese, place on a greased baking sheet, and broil for 2 minutes in the oven.   5.  Remove from the oven, and top with a dollop of sour cream. Top with the tomatoes and parsley, and serve immediately. "
+      
+    },
+    {
+      "id": 18,
+      "name":"Twice Baked Potatoes with Herb Cheeses  and sun dried tomatoes" ,
+      "cuisine": "French",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/twice-baked-potatoes-with-herb-cheeses-463349.jpg",
+      "ingredients": "4  large, floury potatoes (russets or yukon golds) olive oil salt  1 cup soft goat cheess  1 cup crumbled gorgonzola 2 tbsps  chopped, mixed fresh herbs (tarragon, sage, parsley)  4 tbsps  sun-dried tomatoes (in olive oil)",
+      "instructions": "1.  Preheat the oven to 200°C / 400°F   2.  Prick the potatoes several times with a fork. Rub with oil and sprinkle with salt. Place on a baking tray and bake for 1 1/2-2 hours, depending on the size of the potato, until tender. 3. Mix together the soft cheese, Gorgonzola, herbs and tomatoes  4.  Cut a cross in the top of each potato, pull apart slightly and fill with the cheese and tomato filling. Return to the oven for a further 5-10 minutes, until the cheese has melted."
+      
+    },
+    {
+      "id": 19,
+      "name":"Zucchini Salad with Baked Potatoes" ,
+      "cuisine": "Asian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/zucchini-salad-with-baked-potatoes-666935.jpg",
+      "ingredients": "1 ¾ lbs small potatoes 4 tbsps  olive oil salt  peppers ground paprika  1  big zucchini 1  red onion  8 ozs cherry tomatoes ½ bunch dill 1 tbsp  red wine vinegar  ½ bunch radish ⅔ cup sour cream ⅔ cup  low fat yogurt",
+      "instructions": "1.  Wash potatoes thoroughly, cut into slices and mix with 2 tablespoons of oil. Season potato wedges with salt, pepper and paprika powder. Bake in a preheated oven at 220 °C/ 425°F (convection 200 °C/ 400°F) on a baking tray lined with baking paper for about 30 minutes until crispy.  2.  In the meantime, wash and clean the zucchini, cut them into quarters lengthwise and slice them. Peel and halve the onion and cut into rings. Wash the tomatoes. Wash dill, shake dry and chop.  3.  Heat the remaining oil in a frying pan. First fry the zucchini slices in the oil over medium to high heat for 2-3 minutes. Add the onions and fry for another 2-3 minutes. Add the tomatoes, add vinegar, season with salt and pepper and simmer briefly. Add dill tips and set aside.  4. Wash, clean and finely dice the radishes. Mix with sour cream and yogurt and season with salt and pepper. Serve the radish cream mixture with baked potatoes and lukewarm zucchini salad."
+      
+    },
+    {
+      "id": 20,
+      "name":"Grilled Halloumi and Zucchini with Caramelized Mango" ,
+      "cuisine": "German",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/grilled-halloumi-and-zucchini-with-caramelized-mango-666915.jpg",
+      "ingredients": "8 ozs halloumi cheese 1 tbsp  olive oil 1 tsp curry powder  1 tbsp lime juice 1 small zucchini  ¼  mango  2 slices sourdough (bread) peppers  1 tsp maple syrup 1 tbsp white vinegar",
+      "instructions": "1. Cut Halloumi cheese into slices of about 1/2-inch width. Mix oil, curry powder and lime juice. Marinate Halloumi in mixture for about 10 minutes.  2. In the meantime, clean, wash and slice the zucchini. Add zucchini slices to the Halloumi. Peel the mango, remove the flesh from the core and cut into slices.  3.  Grill the Halloumi and zucchini in a hot grill pan over medium to high heat for 3-4 minutes on each side. Remove and spread on the slices of bread.  4.  Put the mango slices in the grill pan and grill on both sides for 2-3 minutes over high heat. Season with pepper and reduce heat. Add maple syrup and let it caramelize briefly. Deglaze with vinegar and let it simmer for 1-2 minutes.  5. Put mango slices on the Halloumi and serve."
+      
+    },
+    {
+      "id": 21,
+      "name":"Zucchini Halloumi Pancake with sour cream chive dip" ,
+      "cuisine": "Indian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/zucchini-halloumi-pancake-679075.jpg",
+      "ingredients": "1 bunch  chives 7 ozs  sour cream  salt peppers 1 tbs  lemon juice 2  zucchini  2  shallots 4 ozs halloumi cheese 4 eggs 6 ½ ozs milk (whole)  7 ozs  whole grain spelt flour 3 tbsps canola oil",
+      "instructions": "1.  For the dip, wash the chives, shake dry and cut into fine rolls. Mix with sour cream in a bowl and season with salt, pepper and lemon juice.  2. For the zucchini pancake, clean and wash the zucchini and cut into cubes of approx. 1/2 inch. Peel and finely dice the shallots. Coarsely grate halloumi.  3.  Separate eggs. Beat egg whites with 1 pinch of salt until stiff. Mix egg yolks with milk and flour to a smooth viscous batter and season with salt. Stir in halloumi and carefully fold in beaten egg whites.  4.  Heat oil in a large frying pan. Sauté zucchini and shallots in it for 2-3 minutes over medium heat. Spread the batter on top and cook over low heat for 6-7 minutes. Turn the zucchini pancake over with the help of a spatula and cook for another 5-6 minutes. Then cut into pieces and arrange on plates. Serve the dip separately."
+      
+    },
+    {
+      "id": 22,
+      "name":"Zucchini Pancakes with Shrimp" ,
+      "cuisine": "Swiss",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/zucchini-pancakes-with-shrimp-522306.jpg",
+      "ingredients": "2 zucchini  salt 1 ½ ozs  parmesan  4 tbsps  breadcrumbs  3 eggs peppers  1 generous pinch  chili powder  freshly grated nutmeg 2 tbs  butter  2 green scallions 18 ozs  king prawn  2 garlic cloves lemons 2 tbsps  olive oil  white peppers",
+      "instructions": "1.  Rinse the zucchini, trim and finely grate. Sprinkle salt and let stand in a colander for 10 minutes, then squeeze dry. Grate the Parmesan.  Combine the zucchini, bread crumbs, Parmesan cheese, eggs, salt, pepper, chile powder and nutmeg.  2.  Heat the butter in a pan over medium heat. Spoon 1 to 2 tablespoons of zucchini mixture into the pan, flatten and cook until golden brown on both sides. Keep warm in preheated oven at 50°C / 125°F.  3. Rinse the scallions, trim, cut into thin rings. Rinse the shrimp and pat dry. Peel the garlic and slice into quarters. Rinse the lemon in hot water, wipe dry and finely grate zest. Squeeze juice from the lemon.  4.  Heat oil in a pan and saute the garlic until golden brown. Add the lemon zest and prawns. Cook, turning often, over high heat for about 3-4 minutes, until the shrimp are pink. Drizzle with lemon juice and sprinkle with scallions. Season with salt and white pepper. Arrange the shrimp on the zucchini cakes and serve."
+      
+    },
+    {
+      "id": 23,
+      "name":"Turmeric Pancakes with Leek and Zucchini" ,
+      "cuisine": "Mexico",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/turmeric-pancakes-with-leek-and-zucchini-667383.jpg",
+      "ingredients": "3 ½ ozs spelt flour  6 ozs  milk 2 eggs salt  1 tsp  ground turmeric  7 ozs leeks  1  zucchini 1  apple 3 tbsps canola oil  6 ozs cream cheese peppers ¼ tsp ground caraway ¼ tsp dried marjoram",
+      "instructions": "Mix flour with milk, eggs, 2-4 tbsp. water, salt and turmeric powder to a smooth dough and let it swell for 10 minutes. In the meantime, clean and wash the leek and zucchini and cut into thin rings and pieces. Wash apple, halve, core and cut into small pieces. "
+      
+    },
+    {
+      "id": 24,
+      "name":"Spelt Crepes with Cheese and Leek Filling" ,
+      "cuisine": "Italy",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/spelt-crepes-with-cheese-and-leek-filling-675959.jpg",
+      "ingredients": "1 oz parmesan  14 ozs  milk (whole)  6 ½ ozs  whole spelt flour  3  eggs  6 tbsps  olive oil  2 stalks  leeks  4 ozs  spinach  1  garlic clove  1 ¾ ozs cream cheese salt  peppers  nutmeg  2 sprigs  thyme  1 ¾ ozs emmentaler cheese",
+      "instructions": "1. Finely grate the Parmesan cheese. Mix milk with spelt flour and Parmesan until smooth. Add eggs, mix with 1 tablespoon olive oil to a viscous dough and let swell for 10 minutes.  2.  Meanwhile, for the filling, clean, wash and cut the leeks into fine rings. Spinach clean, wash, spin dry and chop coarsely. Peel and finely chop the garlic. Heat 2 tablespoons oil in a frying pan, sauté leek and garlic for 5 minutes over medium heat. Then add spinach, saute for 2 minutes and let it collapse. Let the liquid evaporate over low heat and stir in cream cheese. Season with salt, pepper and freshly grated nutmeg.  3. For the crêpes, heat a large frying pan with a little oil. Bake a total of 12 crêpes in succession over medium heat. Pour in 1 ladle of batter at a time and bake for 2-3 minutes per side. Stack the crêpes on a plate and let them cool. 4.  Fill crêpes with leek mixture and fold into quarters. Wash thyme and pluck leaves. Grate Emmental cheese. Layer crêpes in a greased baking dish and sprinkle with thyme and Emmentaler. Bake in the oven for 15 minutes until golden brown."
+      
+    },
+    {
+      "id": 25,
+      "name":"Buckwheat Crepes with Turkey and Mushroom Filling" ,
+      "cuisine": "French",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/buckwheat-crepes-with-turkey-and-mushroom-filling-529332.jpg",
+      "ingredients": "For the buckwheat pancakes 4 ozs buckwheat flour  4 ozs pastry flour  3  eggs  8 ozs  milk  3 ozs  water  salt sunflower oil (to saute)  For the fillin  2 shallots",
+      "instructions": "1. Preheat the oven to 70°C / 160°F. In a bowl, stir together the buckwheat and all-purpose flour, the eggs, milk and water, season with salt and whisk until creamy. Cover and let stand 30 minutes. (Adjust the consistency if necessary by adding more flour or water). Heat some oil in a nonstick skillet, pour a ladleful of batter into the hot pan, and gently swirl the pan until the batter covers the bottom in a thin layer. Cook over medium heat until lightly browned on the underside. Flip the crepe over and cook until the underside is lightly browned. Repeat with the remaining batter to make 12-16 thin crepes. Keep the finished crepes warm in the oven.  2. For the filling: Peel the shallots and chop finely. Clean the mushrooms and finely chop. Heat 2 tablespoons of oil in a pan and sauté the shallots gently. Add the ground meat and saute over medium heat stirring until crumbly. Add the porcini powder and saute 5-6 minutes, stirring constantly. Season well with salt, pepper and nutmeg.  3. Spread the filling on the crepes, sprinkle each with 1-2 tablespoons snipped chives and top with 1-2 tablespoons of creme fraiche. Fold the crepes into triangles, arrange on plates and serve immediately. Serve with a fresh salad."
+      
+    },
+    {
+      "id": 26,
+      "name":"Buckwheat Risotto with Mushrooms and Kale" ,
+      "cuisine": "American",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/buckwheat-risotto-with-mushrooms-and-kale-674299-1.jpg",
+      "ingredients": "9 ozs  buckwheat  1  shallot  2 garlic cloves 2 tbsps dried porcini mushroom 36 ozs vegetable broth  3 ½ ozs  ham 30 ozs mixed wild mushrooms (e.g. enoki, shiitake, mushrooms or wild mushrooms)  3 tbsps olive oil salt peppers 6 ozs kale (or cabbage)",
+      "instructions": "1. Rinse buckwheat and drain. Peel and finely chop shallot and garlic. Finely chop dried porcini mushrooms, bring to a boil with broth and 9 ounces water in a saucepan, then keep warm. Cut ham into fine strips. Clean mushrooms, cut larger ones into pieces, pluck enoki apart if necessary.  2. Heat 1 tablespoon of oil in a frying pan. Fry ham in it for 3-4 minutes over medium heat until crispy; then remove and drain. Heat remaining oil and sauté mushrooms in it for 5 minutes, then remove half and set aside. Add shallot and sauté over medium heat for 2 minutes. Mix in garlic and buckwheat and sauté for 1 minute, adding salt and pepper. Deglaze with about 6-7 ounces of hot broth, let the liquid boil away and cook buckwheat, stirring, for 8-10 minutes, repeatedly adding a little broth.  3. At the same time, clean and wash the cabbage, remove the thick leaf veins and cut the leaves into pieces or strips. Add to buckwheat and cook over medium heat for 10-12 minutes, stirring, gradually adding all the broth and porcini mushrooms. When buckwheat is done, add remaining mushrooms on top and heat again briefly. Season the buckwheat risotto to taste, divide among plates, top with the ham strips and sprinkle with pepper."
+      
+    },
+    {
+      "id": 27,
+      "name":"Buckwheat with Rye Sauce and Garlic Mushrooms" ,
+      "cuisine": "Asian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/buckwheat-with-rye-sauce-and-garlic-mushrooms-676417.jpg",
+      "ingredients": "1 slic day old rye bread 2 shallots 1 tbsp butter  7 ozs milk (whole) salt  peppers ½ tsp ground caraway  1  sage 4 tbsps canola oil 9 ozs buckwheat groats 25 ozs  vegetable broth 2 garlic cloves  5 sprigs fresh thyme  30 ozs  mixed mushrooms (e.g. mushrooms, oyster mushrooms, enoki, shiitake, herb mushrooms)  ½ bunch garlic chive  2 tbsps almonds",
+      "instructions": "1.  Finely chop the rye bread with a blitz chopper. Peel 1 shallot and chop finely.  2.  Heat butter in a saucepan. Sauté shallot in it for 3 minutes over medium heat. Deglaze with milk, bring to a boil and season with salt, pepper and caraway seeds. Stir in bread crumbs and simmer for 5-10 minutes over low heat until sauce thickens slightly. Season to taste and set aside. 3. Meanwhile, wash sage, shake dry and chop leaves very finely. Heat 2 tablespoons of oil in a saucepan. Add buckwheat groats and sauté for 2-3 minutes over medium heat. Stir in sage, deglaze with a little broth and let it evaporate almost completely. While stirring occasionally, gradually pour in the remaining broth, add salt and pepper. Cook buckwheat groats for a total of about 25 minutes over low heat. 4. Meanwhile, for the mushrooms, peel remaining shallot and garlic and finely chop both. Wash thyme and shake dry. Clean mushrooms and leave whole or cut into pieces, depending on size. 5.  In a large frying pan, heat remaining oil. Sauté shallot and garlic for 3 minutes over medium heat. Add mushrooms and sauté for 5 minutes. Add thyme sprigs and cook everything for 5 minutes, turning.  6. At the same time, wash the chopped garlic, shake dry, cut into fine rolls and finally add to the mushrooms. Chop the almonds.  7.  Add bread sauce to buckwheat, heat everything again briefly and stir in a little milk if needed. Put buckwheat into deep plates. Salt and pepper the fried mushrooms and arrange them with the thyme on the buckwheat, sprinkle everything with almonds and pepper and serve."
+      
+    },
+    {
+      "id": 28,
+      "name":"Pumpkin with Porcini Mushrooms and Garlic" ,
+      "cuisine": "Mexico",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/pumpkin-with-porcini-mushrooms-and-garlic-515198.jpg",
+      "ingredients": "36 ozs pumpkin 2 tbsps canola oil  salt 7 ozs porcini mushroom  1  garlic clove For garnish  chopped parsley  parsley fresh, green peppers (or from a jar)",
+      "instructions": "1.  Cut the pumpkin flesh into pieces. Cook in a frying pan (preferably coated) in hot oil for about 5 minutes until lightly brown. Season with salt and pour in a little water. Cover and cook about 5 minutes, until tender. Remove the lid again and let the liquid completely evaporate. Clean the mushrooms and cut into bite-size pieces. Peel garlic and cut into slices. Put the mushrooms and garlic in with the pumpkin and cook until golden brown, about 5 minutes. Season with salt and place in a bowl.  2. Serve garnished with parsley and green pepper."
+      
+    },
+    {
+      "id": 29,
+      "name":"Smoked Salmon Avocado Toast with radishes" ,
+      "cuisine": "Asian",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/smoked-salmon-avocado-toast-673857.jpg",
+      "ingredients": "2  ripe avocado 8 ozs cream cheese  2  scallions ¾ oz mixed fresh herbs (dill, parsley, basil)  salt peppers 1 generous pinch  ground turmeric  4  radish ¼ cucumber  15 ozs sprout 1 cress  8 ozs whole wheat bread (4 slices), toasted  8 ozs smoked salmon (in slices)",
+      "instructions": "1. Peel avocados, cut in half, remove pits, lift flesh from peel, mash with a fork and mix with cream cheese. Clean the spring onions, wash and cut into fine rings; wash the herbs, shake dry and chop; mix both into the cream cheese and season with salt, pepper, and turmeric.  2. Clean, wash and slice radishes and cucumber. Wash sprouts thoroughly. Cut cress from the bed.  3. Spread the slices of bread with the avocado cream cheese and top with salmon, cucumber and radish slices and add sprouts and cress."
+      
+    },
+    {
+      "id": 30,
+      "name":"Rolled Crepes with Smoked Salmon and Cream Cheese" ,
+      "cuisine": "German",
+      "image": "https://images.eatsmarter.com/sites/default/files/styles/576x432/public/rolled-crepes-with-smoked-salmon-and-cream-cheese-527434.jpg",
+      "ingredients": "7 ozs  milk  3 ½ ozs pastry flour salt  2 eggs 1 tbsp  canola oil  ½ bunch  chives 4 stalks parsley  6 ozs  cream cheese 3 ozs greek yogurt 1 splash lemon juice 1 tsp horseradish (jarred) peppers 7 ozs smoked salmon (slices)",
+      "instructions": "1. In a bowl, stir the flour into 6.6 ounces of the milk and 1 pinch of salt until smooth. Mix in the eggs, cover and let stand 15 minutes. 2.  Heat the canola oil in a skillet over medium-low heat. Ladle 1/4 of the batter into the pan, swirling the pan to coat the bottom with batter and cook until golden brown on both sides. Repeat with the remaining batter to make 4 crepes. Remove and drain on paper towels.  3.  Rinse the herbs, shake dry and set a little aside for garnish and chop the rest.   4. In a bowl, mix together the cream cheese, yogurt, the remaining milk, 1 dash of lemon juice and horseradish and season with pepper. Stir in the chives and parsley. 5.  Top the crepes with the salmon and spread the cream over. Roll up and refrigerate at least 30 minutes.  6. Slice the crêpes, secure with toothpicks and if desired, garnish with parsley."
+      
     }
   ]
 }
